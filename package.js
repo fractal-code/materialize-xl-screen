@@ -4,3 +4,7 @@ Package.describe({
     summary: 'Adds an extra large screen size to Materialize',
     git: 'https://github.com/gliese-technology/materialize-xl.git'
 });
+
+Package.onUse(function (api) {
+    api.addFiles("xl.css", "client");
+});
