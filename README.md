@@ -1,5 +1,5 @@
 # materialize-xl-screen
-Extra large screen size for Materialize
+Extra large screen size (>1200px) for Materialize
 
 ## Installation
 
