@@ -14,3 +14,7 @@ Then just use it like any other screen size...
       <div class="col xl6">6/12</div>
     </div>
 ```
+
+## Official Support
+
+If you like what this package does, please help get it implemented in core by replying on [this issue](https://github.com/Dogfalo/materialize/issues/644)
