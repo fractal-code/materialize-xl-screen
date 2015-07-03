@@ -1,5 +1,5 @@
 /* Implement xl screen size */
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1366px) {
     .row .col.xl1 {
         width:8.33333%;
         margin-left:0;
